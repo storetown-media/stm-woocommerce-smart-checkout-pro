@@ -10,7 +10,7 @@
 [![PHP](https://img.shields.io/badge/PHP-7.4%E2%80%938.4-777BB4?style=flat-square&logo=php)](#kompatibilität)
 [![Garantie](https://img.shields.io/badge/30%20Tage-Geld%20zur%C3%BCck-brightgreen?style=flat-square)](#pricing)
 
-[🛒 **Kaufen für 99 €**](https://www.storetown-media.de/produkt/stm-smart-checkout-pro-woocommerce/) · [🖥️ **Live-Demo**](https://www.storetown-media.de/kasse/?add-to-cart=56628) · [🆓 **Kostenlose Basis**](https://github.com/storetown-media/stm-smart-checkout) · [📚 **Hub**](https://www.storetown-media.de/produkt-kategorie/downloads/wordpress-plugins/)
+[🛒 **Kaufen für 99 €**](https://www.storetown-media.de/produkt/stm-smart-checkout-pro-woocommerce/) · [🖥️ **Live-Demo**](https://www.storetown-media.de/kasse/?add-to-cart=57829) · [🆓 **Kostenlose Basis**](https://github.com/storetown-media/stm-smart-checkout) · [📚 **Hub**](https://www.storetown-media.de/produkt-kategorie/downloads/wordpress-plugins/)
 
 </div>
 
@@ -90,7 +90,7 @@ Für Composer-verwaltete Installationen (z. B. Bedrock) liegt das Paket zusätzl
 
 | | |
 |---|---|
-| **Frontend-Demo** | [Kasse mit gefülltem Warenkorb öffnen](https://www.storetown-media.de/kasse/?add-to-cart=56628) |
+| **Frontend-Demo** | [Kasse mit gefülltem Warenkorb öffnen](https://www.storetown-media.de/kasse/?add-to-cart=57829) |
 | **Kostenlose Basis** | [github.com/storetown-media/stm-smart-checkout](https://github.com/storetown-media/stm-smart-checkout) |
 | **Produktseite Basis** | [Smart Checkout for WooCommerce](https://www.storetown-media.de/produkt/stm-smart-checkout-woocommerce/) |
 
