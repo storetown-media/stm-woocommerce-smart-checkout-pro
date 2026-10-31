@@ -4,7 +4,7 @@
 
 ### Online-Widerrufsformular · mobile Sticky-Bestellleiste · ultra-kompaktes Layout
 
-[![Commercial](https://img.shields.io/badge/License-Commercial%20Closed--Source-red?style=flat-square)](#lizenz)
+[![License](https://img.shields.io/badge/License-GPL--2.0--or--later-blue?style=flat-square)](#lizenz)
 [![WordPress](https://img.shields.io/badge/WordPress-6.4%2B-21759B?style=flat-square&logo=wordpress)](#kompatibilität)
 [![WooCommerce](https://img.shields.io/badge/WooCommerce-8.3%2B-96588A?style=flat-square&logo=woocommerce)](#kompatibilität)
 [![PHP](https://img.shields.io/badge/PHP-7.4%E2%80%938.4-777BB4?style=flat-square&logo=php)](#kompatibilität)
@@ -14,7 +14,7 @@
 
 </div>
 
-> ⚠️ **Kommerzielle Closed-Source-Erweiterung.** Dieses Repository enthält Dokumentation und Pre-Sales-Informationen. Der Quellcode wird nach dem Kauf über die [Produktseite](https://www.storetown-media.de/produkt/stm-smart-checkout-pro-woocommerce/) ausgeliefert.
+> ⚠️ **Kostenpflichtige Erweiterung.** Dieses Repository enthält Dokumentation und Pre-Sales-Informationen. Das Plugin wird nach dem Kauf über die [Produktseite](https://www.storetown-media.de/produkt/stm-smart-checkout-pro-woocommerce/) ausgeliefert; sein Code steht wie die kostenlose Basis unter der GPL-2.0-or-later.
 
 > ℹ️ **Pro ist ein Add-on, kein zweiter Checkout.** Es setzt das kostenlose [STM Smart Checkout for WooCommerce](https://github.com/storetown-media/stm-smart-checkout) voraus und ersetzt es nie. Fehlt die Basis, bleibt Pro still und sagt es im Backend.
 
@@ -108,6 +108,6 @@ E-Commerce-Agentur aus Tornesch bei Hamburg, seit 2012. Mehr unter [storetown-me
 
 ## Lizenz
 
-**Proprietär / kommerziell, Closed Source.** Es gelten die [AGB von Storetown Media](https://www.storetown-media.de/agb/).
+**Plugin-Code: GPL-2.0-or-later**, wie im Kopf des Plugins angegeben — dieselbe Lizenz wie die kostenlose Basis. Für Lieferung, Updates und Support gelten die [AGB von Storetown Media](https://www.storetown-media.de/agb/).
 
-Dieses Repository (Dokumentation, README, Issue-Vorlagen) steht unter All Rights Reserved. Der ausgelieferte Plugin-Code wird durch die kommerzielle Lizenz im Kaufvertrag geregelt.
+Die Texte und Bilder dieses Repositorys (Dokumentation, README, Issue-Vorlagen) sind © Storetown Media, alle Rechte vorbehalten.

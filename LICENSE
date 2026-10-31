@@ -1,35 +1,31 @@
-Proprietary License — All Rights Reserved
-==========================================
+STM Smart Checkout Pro for WooCommerce — Licence
+================================================
 
 Copyright (c) 2026 Storetown-Media, Germany
 https://www.storetown-media.de/
 
-This software and associated documentation files (the "Software") are
-proprietary, commercial closed-source products.
+1. The plugin
+-------------
 
-Use, redistribution, modification, sublicensing, or any other exploitation
-of the Software requires a valid commercial license obtained from
-Storetown-Media via https://www.storetown-media.de/ or via an authorized
-distribution channel.
+The plugin STM Smart Checkout Pro for WooCommerce is licensed under the
+GNU General Public License, version 2 or (at your option) any later version
+(GPL-2.0-or-later), as its plugin header states — the same licence as the
+free base plugin, STM Smart Checkout for WooCommerce:
 
-This repository contains documentation, marketing material, and pre-sales
-information only. It does NOT include the licensed WordPress plugin source
-code. The licensed source code is delivered separately upon purchase, under
-the terms of the commercial license agreement and the "Allgemeine
-Geschäftsbedingungen" (AGB) available at:
+https://www.gnu.org/licenses/gpl-2.0.html
+https://github.com/storetown-media/stm-smart-checkout
+
+The plugin is delivered upon purchase. Delivery, updates and support are
+governed by the "Allgemeine Geschäftsbedingungen" (AGB) of Storetown-Media:
 
 https://www.storetown-media.de/agb/
 
-The free base plugin, STM Smart Checkout for WooCommerce, is a separate
-product licensed under GPLv2 or later and is not covered by this license:
+2. This repository
+------------------
 
-https://github.com/storetown-media/stm-smart-checkout
+This repository contains documentation, marketing material and pre-sales
+information only; it does not contain the plugin's source code. Its texts
+and images are (c) Storetown-Media, all rights reserved.
 
-UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING, THIS SOFTWARE
-IS PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
-KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, ANY
-WARRANTIES OR CONDITIONS OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY, OR
-FITNESS FOR A PARTICULAR PURPOSE.
-
-For commercial licensing inquiries, please contact:
-info@storetown-media.de
+THE PLUGIN IS PROVIDED WITHOUT WARRANTY OF ANY KIND, TO THE EXTENT PERMITTED
+BY APPLICABLE LAW; SEE SECTIONS 11 AND 12 OF THE GNU GENERAL PUBLIC LICENSE.
